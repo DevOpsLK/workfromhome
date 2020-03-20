@@ -1,6 +1,6 @@
 # How to work remotely
 
-This document is directly informed by [remote work guidelines published by Zalando](https://jobs.zalando.com/en/tech/blog/how-to-work-remotely-at-zalando/?gh_src=4n3gxh1) which was published by Tim Kröger, Henning Jacobs on 2020-03-13. Purpose of creating this is to adopt the guidelines published by them to Sri Lankan companies and make it easy to do modifications as suitable for Sri Lankan workforce.
+This document is directly influenced by [remote work guidelines published by Zalando](https://jobs.zalando.com/en/tech/blog/how-to-work-remotely-at-zalando/?gh_src=4n3gxh1) which was published by Tim Kröger, Henning Jacobs on 2020-03-13. Purpose of creating this is to adopt the guidelines published by them to Sri Lankan companies and make it easy to do modifications as suitable for Sri Lankan workforce.
 
 ## The most important baseline rules to follow are:
 
@@ -93,6 +93,11 @@ All in one collboration packages
 * [BaseCamp](https://basecamp.com/)
 * [Zenhub](https://www.zenhub.com/)
 * [Jira](https://www.atlassian.com/software/jira)
+
+
+### Scheduling
+
+* [Doodle](https://doodle.com/en/features/)
 
 
 
