@@ -35,7 +35,7 @@ GitLab provides some [good advice for All-Remote Meetings](https://about.gitlab.
 ### Prioritize documentation and clear communication
 
 * Document more than normal e.g. outlines of your ideas, next steps, meeting notes.
-* Collaborate virtually, e.g. virtual whiteboards & sticky notes (use Google Slides or Google Jamboard, a digital whiteboard), work on documents in * * real-time. Check out “Working with Google Software at the Zalando Workspace” instructions [internal link].
+* Collaborate virtually, e.g. virtual whiteboards & sticky notes (use Google Slides or [Google Jamboard](https://gsuite.google.com/products/jamboard/), a digital whiteboard), work on documents in * * real-time.
 * Share how you feel by using emojis 🤗. What’s going well? What’s not going well? Explain how you are feeling and when you need help.
 * Empathy is everything: always assume positive intent. Tone and nuance can get lost over chat, so assuming your colleague is coming from a positive * place helps with potential misunderstandings. If you think your colleague acts weird, or a chat is getting too long or confusing, have a video call.
 * Say what is obvious too: communicating everything explicitly is key to avoid misunderstandings.
